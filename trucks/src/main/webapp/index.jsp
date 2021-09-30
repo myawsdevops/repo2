@@ -8,5 +8,6 @@
 <h2>Hello World!</h2>
 <h2>Hello World!</h2>
 <h2>Hi sandeep !</h2>
+<h2>This is devops ci/cd example</h2>
 </body>
 </html>
